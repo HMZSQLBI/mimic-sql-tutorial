@@ -78,8 +78,7 @@ https://youtu.be/JdQmmj2-pw0
 - آشنایی با `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL OUTER JOIN`, `CROSS JOIN`
 - ترکیب اطلاعات از چند جدول (patients, admissions, icustays)
 
-📁 تمرین: `02_filters_joins/join_practice_mimiciii.sql`
-
+📁 تمرین: https://github.com/HMZSQLBI/mimic-sql-tutorial/blob/main/join_practice_mimiciii.sql
 ---
 
 ## ⚙️ Indexes (ایندکس‌ها)
@@ -89,7 +88,7 @@ https://youtu.be/JdQmmj2-pw0
 - مشاهده ایندکس‌های موجود
 - مقایسه اجرای کوئری با و بدون ایندکس
 
-📁 تمرین: `03_indexes/index_practice_mimiciii.sql`
+📁 تمرین: https://github.com/HMZSQLBI/mimic-sql-tutorial/blob/main/index_practice_mimiciii.sql
 
 ---
 
