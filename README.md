@@ -77,8 +77,9 @@ https://youtu.be/JdQmmj2-pw0
 
 - آشنایی با `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL OUTER JOIN`, `CROSS JOIN`
 - ترکیب اطلاعات از چند جدول (patients, admissions, icustays)
-
+- 
 📁 تمرین: https://github.com/HMZSQLBI/mimic-sql-tutorial/blob/main/join_practice_mimiciii.sql
+
 ---
 
 ## ⚙️ Indexes (ایندکس‌ها)
