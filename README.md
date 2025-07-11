@@ -69,7 +69,7 @@ https://youtu.be/JdQmmj2-pw0
 - استفاده از CTE برای خوانایی و ماژولار کردن کوئری‌های پیچیده
 - ترکیب CTE با `JOIN` و `CASE`
 
-📁 تمرین: `04_cte_case/with_join_case_mimiciii.sql`
+📁 تمرین: [`04_cte_case/with_join_case_mimiciii.sql`](https://github.com/HMZSQLBI/mimic-sql-tutorial/blob/main/join_practice_mimiciii.sql)
 
 ---
 
