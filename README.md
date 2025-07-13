@@ -59,7 +59,7 @@ https://youtu.be/JdQmmj2-pw0
 - حذف تکرارها (`DISTINCT`)
 - محدود کردن نتایج (`TOP`, `WHERE`)
 
-📁 تمرین‌ها: `01_basic_select/select_examples.sql`
+📁 تمرین‌ها: [`01_basic_select/select_examples.sql`](https://github.com/HMZSQLBI/mimic-sql-tutorial/blob/main/select_examples.sql)
 
 ---
 
